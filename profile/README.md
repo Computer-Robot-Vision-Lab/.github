@@ -1,7 +1,11 @@
-# 🤖 Computer & Robot Vision Laboratory  
+<p align="center">
+  <img src="assets/logo.png" alt="Lab Logo" style="width:100%; max-width:1000px;"/>
+</p>
 
-Welcome to the **Computer and Robot Vision Lab**!  
-We focus on cutting-edge research and development in **three-dimensional vision technology**, combining computer vision, robotics, and artificial intelligence to solve real-world problems.  
+
+# Welcome to the **Computer and Robot Vision Lab**!  
+
+We focus on cutting-edge research and development in **3D vision technology**, combining computer vision, robotics, and artificial intelligence to solve real-world problems.  
 
 ---
 
